@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{98440927-EE6C-4B00-8988-65F439562BA4}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>sales_Artak</RootNamespace>
-    <AssemblyName>sales_Artak</AssemblyName>
+    <RootNamespace>sales_Madatyan</RootNamespace>
+    <AssemblyName>sales_Madatyan</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
