@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace sales_Artak
+namespace sales_Madatyan
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
