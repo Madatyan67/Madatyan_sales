@@ -29,10 +29,10 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using sales_Artak;
+using sales_Madatyan;
 
 
-namespace sales_Artak {
+namespace sales_Madatyan {
     
     
     /// <summary>
@@ -61,7 +61,7 @@ namespace sales_Artak {
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "4.0.0.0")]
         public static void Main() {
-            sales_Artak.App app = new sales_Artak.App();
+            sales_Madatyan.App app = new sales_Madatyan.App();
             app.InitializeComponent();
             app.Run();
         }
