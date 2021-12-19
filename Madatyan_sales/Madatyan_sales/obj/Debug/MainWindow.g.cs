@@ -29,10 +29,10 @@ using System.Windows.Media.TextFormatting;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 using System.Windows.Shell;
-using sales_Artak;
+using sales_Madatyan;
 
 
-namespace sales_Artak {
+namespace sales_Madatyan {
     
     
     /// <summary>
