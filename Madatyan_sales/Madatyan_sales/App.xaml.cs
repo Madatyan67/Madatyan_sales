@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace sales_Artak
+namespace sales_Madatyan
 {
     /// <summary>
     /// Логика взаимодействия для App.xaml
